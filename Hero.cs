@@ -1,4 +1,4 @@
-﻿namespace OOP8
+﻿/*namespace OOP8
 {
     internal class Hero
     {
@@ -65,4 +65,4 @@
             Console.WriteLine($"{Name} исцелен на {amount}. HP: {Health} | Статус: {Status}");
         }
     }
-}
+}*/

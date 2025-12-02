@@ -1,4 +1,4 @@
-﻿namespace OOP8
+﻿/*namespace OOP8
 {
     class Product
     {
@@ -26,4 +26,4 @@
 
 
     }
-}
+}*/

@@ -1,4 +1,4 @@
-﻿namespace OOP8
+﻿/*namespace OOP8
 {
     class Person
     {
@@ -11,4 +11,4 @@
 
         public void Print() => Console.WriteLine($"Name: {name}, Age: {age}");
     }
-}
+}*/
